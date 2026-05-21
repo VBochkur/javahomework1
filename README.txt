@@ -16,3 +16,4 @@ null == ''
 (+null == false) < 1
 false && true || true
 false && (false || true)
+(+null == false) < 1 ** 5
