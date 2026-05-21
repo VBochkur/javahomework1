@@ -4,3 +4,4 @@ null + 3
 +'40' + +'2' + "hillel"
 '10' - 5 === 6;
 true + false
+'4px' - 3
