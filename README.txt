@@ -11,3 +11,4 @@ true + false
 '10' + (5 === 6)
 null == ''
 3 ** (9 / 3)
+!!'false' == !!'true'
