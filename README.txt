@@ -12,3 +12,4 @@ true + false
 null == ''
 3 ** (9 / 3)
 !!'false' == !!'true'
+0 || '0' && 1
