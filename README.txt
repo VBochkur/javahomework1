@@ -14,3 +14,4 @@ null == ''
 !!'false' == !!'true'
 0 || '0' && 1
 (+null == false) < 1
+false && true || true
